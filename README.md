@@ -1,2 +1,2 @@
-# Advanced-Dialogue-Managersfor-Goal-Oriented-Dialogue-Systems
-Building Advanced Dialogue Managersfor Goal-Oriented Dialogue Systems
+# Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems
+Building Advanced Dialogue Managers for Goal-Oriented Dialogue Systems
