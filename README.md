@@ -12,6 +12,7 @@ This repository contains a comprehensive implementation of a Deep Dialogue Syste
 The project is designed to build and evaluate dialogue management systems using different types of agents and user simulators. It integrates Natural Language Understanding (NLU) and Natural Language Generation (NLG) models to handle and generate dialogue responses. The core of the system is based on a reinforcement learning framework, which is used to train and optimize dialogue agents.
 
 ## Project structure
+``` sh
 .
 ├── deep_dialog
 │   ├── agents               # Agent implementations (e.g., DQN)
@@ -26,7 +27,7 @@ The project is designed to build and evaluate dialogue management systems using 
 ├── chatbot_project          # Django project settings for web interface
 ├── README.md                # Project README file
 └── requirements.txt         # Python dependencies
-
+``` 
 ## Components
 
 ### 1. **Agents**
