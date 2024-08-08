@@ -43,20 +43,20 @@ run_mode = 0
 auto_suggest = 0
 
 ################################################################################
-#   agent所有可能的行为
+#   agent
 feasible_actions = [
-    #   确认问题
+    #   Confirm the question
     {'diaact':"confirm_question", 'inform_slots':{}, 'request_slots':{}},
-    #   确认结果
+    #   Confirm the answer
     {'diaact':"confirm_answer", 'inform_slots':{}, 'request_slots':{}},
-    #   感谢
+    #   Thanks
     {'diaact':"thanks", 'inform_slots':{}, 'request_slots':{}},
-    #   否定
+    #   Deny
     {'diaact':"deny", 'inform_slots':{}, 'request_slots':{}},
 ]
-#   填充的信息
+#   Fill in the information
 for slot in sys_inform_slots:
     feasible_actions.append({'diaact':'inform', 'inform_slots':{slot:"PLACEHOLDER"}, 'request_slots':{}})
-#   向用户询问的信息
+#   Ask the user for information
 for slot in sys_request_slots:
     feasible_actions.append({'diaact':'request', 'inform_slots':{}, 'request_slots': {slot: "UNK"}})
