@@ -1,14 +1,7 @@
 # Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems
-<<<<<<< HEAD
-Building Advanced Dialogue Managers for Goal-Oriented Dialogue Systems
-
-How to run the App:
-cd src\chatbot_project>
-python manage.py runserver
-=======
 ### README
 
-Based off of the code repo DenebUniverse and paper End-to-End Task-Completion Neural Dialogue Systems. This repo is a simplified version of DenebUniverse, it performs at a similar level of accuracy, although it is not directly comparable
+Based off of the code repo (DenebUniverse)[https://github.com/DenebUniverse/UserSimulator_Chatbot] and (paper End-to-End Task-Completion Neural Dialogue Systems)[https://aclanthology.org/I17-1074/]. This repo is a simplified version of DenebUniverse, it performs at a similar level of accuracy, although it is not directly comparable
 
 # Deep Dialog System
 
@@ -101,4 +94,10 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ## License
 
 This project is licensed under the MIT License. 
->>>>>>> 4d1a117e83140bedcb1db2db4b75a13cf568923c
+
+# Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems
+Building Advanced Dialogue Managers for Goal-Oriented Dialogue Systems
+
+How to run the App:
+cd src\chatbot_project>
+python manage.py runserver
