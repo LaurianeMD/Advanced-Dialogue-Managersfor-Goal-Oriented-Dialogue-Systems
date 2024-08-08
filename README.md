@@ -118,3 +118,12 @@ Building Advanced Dialogue Managers for Goal-Oriented Dialogue Systems
 How to run the App:
 cd src\chatbot_project>
 python manage.py runserver
+
+
+## Contributors
+
+- **Oumar KRA**
+- **Séna Kodjovi KUDAWOO**
+- **Carel MOUSSE**
+- **Paule Marcelle ELANGA**
+- **Lauriane MBAGDJE DORENAN**
