@@ -112,14 +112,6 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 This project is licensed under the MIT License. 
 
-# Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems
-Building Advanced Dialogue Managers for Goal-Oriented Dialogue Systems
-
-How to run the App:
-cd src\chatbot_project>
-python manage.py runserver
-
-
 ## Contributors
 
 - **Oumar KRA**
