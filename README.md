@@ -112,7 +112,7 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 This project is licensed under the MIT License. 
 
-## Contributors
+## Collaborators
 
 - **Oumar KRA**
 - **Séna Kodjovi KUDAWOO**
