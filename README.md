@@ -1,7 +1,7 @@
 # Advanced-Dialogue-Managers-for-Goal-Oriented-Dialogue-Systems
 ### README
 
-Based off of the code repo [DenebUniverse](https://github.com/DenebUniverse/UserSimulator_Chatbot) and [paper End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1806.00780). This repo is a simplified version of DenebUniverse, it performs at a similar level of accuracy, although it is not directly comparable
+Based off of the code repo [DenebUniverse](https://github.com/DenebUniverse/UserSimulator_Chatbot) and [paper End-to-End Task-Completion Neural Dialogue Systems](https://arxiv.org/pdf/1806.00780). This repo is a simplified version of [Master Thesis GO Chatbots](https://github.com/IlievskiV/Master_Thesis_GO_Chatbots), it performs at a similar level of accuracy, although it is not directly comparable
 
 # Deep Dialog System
 
