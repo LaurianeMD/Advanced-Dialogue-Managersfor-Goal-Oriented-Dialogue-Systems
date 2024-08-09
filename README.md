@@ -119,3 +119,4 @@ This project is licensed under the MIT License.
 - **Carel MOUSSE**
 - **Paule Marcelle ELANGA**
 - **Lauriane MBAGDJE DORENAN**
+- **Amath Sow**
